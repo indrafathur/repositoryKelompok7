@@ -3,7 +3,7 @@ Nama : Muhammad Farhan
 Kelas : IF-C 19
 NPM : 5520119084
 
-Anggota Indra : 
+Anggota Indra 1 : 
 Nama : indra Fathurohman 
 kelas : IF - C 2019
-NPM ; 5520119090
+NPM : 5520119090
